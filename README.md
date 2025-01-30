@@ -35,7 +35,7 @@ MySQL (or other relational database) 🗄️
 
 bash
 
-git clone https://github.com/adptCode/greensteps.git
+git clone --recurse-submodules https://github.com/adptCode/greensteps.git
 
 ### Backend Setup (Spring Boot) ⚙️
 
