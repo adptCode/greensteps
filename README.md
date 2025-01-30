@@ -2,7 +2,9 @@
 
 #🌍 ECOHACKERS#
 
-Welcome to EcoHackers! This project is a full-stack web application that integrates a Spring Boot backend with an Angular frontend. 🚀 📋 Table of Contents
+Welcome to EcoHackers! This project is a full-stack web application that integrates a Spring Boot backend with an Angular frontend. 🚀 
+
+📋 Table of Contents
 
 Technologies Used
 Prerequisites
@@ -18,6 +20,7 @@ License
 Backend: Spring Boot 🛠️, Java ☕, Maven
 Frontend: Angular ⚡, TypeScript
 Database: MySQL 🗄️ (configurable for other databases)
+
 ✅ Prerequisites
 
 Make sure you have the following installed:
