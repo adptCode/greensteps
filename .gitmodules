@@ -1,0 +1,6 @@
+[submodule "NASA_APP_STORY"]
+	path = NASA_APP_STORY
+	url = https://github.com/auguNa/NASA_APP_STORY.git
+[submodule "nasaSpaceApp"]
+	path = nasaSpaceApp
+	url = https://github.com/adptCode/nasaSpaceApp.git
