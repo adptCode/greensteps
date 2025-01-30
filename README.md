@@ -35,7 +35,7 @@ MySQL (or other relational database) 🗄️
 
 bash
 
-git clone https://github.com/your-username/your-repository.git cd your-repository
+git clone https://github.com/adptCode/greensteps.git
 
 ### Backend Setup (Spring Boot) ⚙️
 
